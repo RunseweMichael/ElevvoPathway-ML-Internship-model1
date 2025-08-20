@@ -37,3 +37,4 @@ server/staticfiles/
 # === Misc ===
 *.lock
 
+; postgresql://machine_learning_model_user:qW4CSQjFYIFpf8FbT5wx6yHJVJKAXPFO@dpg-d2ip9kumcj7s73cmgeq0-a/machine_learning_model
